@@ -1,7 +1,7 @@
 QuixoJavaGame
 =============
 
-###### Beschrijvijng project ######
+###### Beschrijving project ######
 Java game for IPSEN1 project at Hogeschool Leiden.
 
 ###### In opdracht van ######
