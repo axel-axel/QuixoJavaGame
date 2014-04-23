@@ -8,6 +8,12 @@ Java game for IPSEN1 project at Hogeschool Leiden.
 ![Alt text](http://s13.postimg.org/ffmu9k847/readme_md.png "BlueByte in opdracht van Softwarehuis Elektronische Kunst")
 ![Alt text](http://www.beeldbank.leidenuniv.nl/ImageDisplay.php?uid=FT090383&thumbed=5 "Hogeschool Leiden")
 
+##### Uitgevoerd door: #####
+- Bart Mauritz
+- Axel Boesenach
+- Joey Rentenaar
+- Youri Kool
+
 ### NOTES ###
 
 - Denk eraan dat je comments toevoegd als je code schrijft.
